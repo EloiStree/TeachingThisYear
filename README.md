@@ -2,6 +2,8 @@
 
 Just to keep a public record of where I plan to teach this year.
 
+_All can be cancel and can be moved during the year_
+
 * **16 & 19 January:** Nid Dev 1 – Middle Mons
 * **26 January – 1 February:** Global – Charleroi
 * **5 & 6 February:** Nid Dev 2 – End Mons
