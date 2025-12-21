@@ -27,3 +27,24 @@ _All can be cancel and can be moved during the year_
 * **(?) 28 September – 9 October:** What’s New in XR – Charleroi
 * **October–December:** Time to focus on my personal projects
 
+
+
+# Kid holiday Beligum
+
+
+| Event | Date |
+|------|------|
+| Start of the school year | Monday, 24 August 2026 |
+| French Community Day | Sunday, 27 September 2026 |
+| Autumn holidays (All Saints’ break) | Monday, 19 October 2026 to Sunday, 1 November 2026 |
+| All Souls’ Day | Monday, 2 November 2026 |
+| Armistice Day | Wednesday, 11 November 2026 |
+| Winter holidays (Christmas break) | Monday, 21 December 2026 to Sunday, 3 January 2027 |
+| Mardi Gras | Tuesday, 9 February 2027 |
+| Mid-term break (Carnival holidays) | Monday, 22 February 2027 to Sunday, 7 March 2027 |
+| Easter Monday | Monday, 29 March 2027 |
+| Spring holidays (Easter break) | Monday, 26 April 2027 to Sunday, 9 May 2027 |
+| Ascension Day | Thursday, 6 May 2027 |
+| Whit Monday (Pentecost Monday) | Monday, 17 May 2027 |
+| Start of summer holidays | Saturday, 3 July 2027 |
+
