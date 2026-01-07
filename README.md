@@ -8,14 +8,14 @@ _All can be cancel and can be moved during the year_
 * **26 January – 1 February:** Global – Charleroi Workshop [2025->](https://github.com/EloiStree/2025_01_20_GlobalGameJamMons) 
 * **5 & 6 February:** Nid Dev 2 – End Mons [Workshop->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
 * **9 & 13 February:** What’s New in XR – Charleroi 
-* **16–20 February:** Learn to Code by Playing – La Louvière
+* **16–20 February:** Learn to Code by Playing – La Louvière [Workshop->](https://github.com/EloiStree/2026_02_16_WorkshopCodeByPlayingGaming300/blob/main/README.md)
 * **23 & 24 February:** What Is XR – Tournai
 * **26 & 27 February:** What Is XR – Mons
 * **2 & 3 March:** What Is XR – Charleroi
-* **18 March:** Nid Dev 1 – Charleroi 1
-* **25 March:** Nid Dev 2 – Charleroi 1
-* **7 April:** Hello Git & XR Dev – Charleroi
-* **8 & 10 April:** Hello Git & XR Artist 😋 – Charleroi
+* **18 March:** Nid Dev 1 – Charleroi
+* **25 March:** Nid Dev 2 – Charleroi
+* **7 April:** Hello Git & XR Dev – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md) 
+* **8 & 10 April:** Hello Git & XR Artist 😋 – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md)
 * **17 April:** Ludum Dare – Online
 * **18 April:** La Louvière Gaming
 * **11 May – 5 June:** XR Development with Godot – Charleroi
