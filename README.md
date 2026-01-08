@@ -4,11 +4,11 @@ Just to keep a public record of where I plan to teach this year.
 
 _All can be cancel and can be moved during the year_
 
-* **07 January:** Hello XR - Charleroi [Info](https://github.com/EloiStree/2026_01_08_HelloJobInXR/edit/main/README.md)
+* ~**07 January:** Hello XR - Charleroi [Info](https://github.com/EloiStree/2026_01_08_HelloJobInXR/edit/main/README.md)~
 * **16 & 19 January:** Nid Dev 1 – Middle Mons [Workshop->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
 * **26 January – 1 February:** Global – Charleroi Workshop [2025->](https://github.com/EloiStree/2025_01_20_GlobalGameJamMons) 
 * **5 & 6 February:** Nid Dev 2 – End Mons [Workshop->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
-* **9 & 13 February:** What’s New in XR – Charleroi 
+* **9 & 13 February:** What’s New in XR – Charleroi [Workshop->](https://github.com/EloiStree/2026_02_09_WorkshopWhatNewInXR)
 * **16–20 February:** Learn to Code by Playing – La Louvière [Workshop->](https://github.com/EloiStree/2026_02_16_WorkshopCodeByPlayingGaming300/blob/main/README.md)
 * **23 & 24 February:** What Is XR – Tournai
 * **26 & 27 February:** What Is XR – Mons
