@@ -24,4 +24,4 @@ _All can be cancel and can be moved during the year_
 * **(?) 2 & 3:** What Is XR – Mons
 * **(?) 28 September – 9 October:** What’s New in XR – Charleroi
 * **October–December:** Time to focus on my personal projects
-* **Date inconnue:** Apprendre C# par le QA testing [Pitch ->](https://github.com/EloiStree/HelloGodotRemoteControlHub/tree/main/FR/AtelierUnMois/HelloSharp)
+* **Date inconnue:** Apprendre C# par le QA testing [Workshop ->](https://github.com/EloiStree/HelloOneMonthSharpYourWay)
