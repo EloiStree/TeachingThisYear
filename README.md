@@ -25,3 +25,9 @@ _All can be cancel and can be moved during the year_
 * **(?) 28 September – 9 October:** What’s New in XR – Charleroi
 * **October–December:** Time to focus on my personal projects
 * **Date inconnue:** Apprendre C# par le QA testing [Workshop ->](https://github.com/EloiStree/HelloOneMonthSharpYourWay)
+
+
+------------------
+
+[<img width="1847" height="909" alt="Image" src="https://github.com/user-attachments/assets/99daf153-2829-4da2-8a6d-a29a082a61ea" />](https://github.com/EloiStree/BryanCranstonAdviceToAspiringActors)   
+[Bryan Cranston advice to aspiring actors](https://github.com/EloiStree/BryanCranstonAdviceToAspiringActors)   
