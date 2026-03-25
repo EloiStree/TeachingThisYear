@@ -10,8 +10,8 @@ _All can be cancel and can be moved during the year_
 * ~**5 & 6 February:** Nid Dev 2 – End Mons [Workshop->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)~
 * ~**9 & 13 February:** What’s New in XR – Charleroi [Workshop->](https://github.com/EloiStree/2026_02_09_WorkshopWhatNewInXR)~
 * ~**16–20 February:** Learn to Code by Playing – La Louvière [Workshop->](https://github.com/EloiStree/2026_02_16_WorkshopCodeByPlayingGaming300/blob/main/README.md)~
-* **18 March:** Nid Dev 1 – Charleroi [Workshop ->](https://github.com/EloiStree/HelloOneDayGodotXR/blob/main/README.md)
-* **25 March:** Nid Dev 2 – Charleroi [Workshop ->](https://github.com/EloiStree/HelloOneDayGodotXR/blob/main/README.md)
+* ~**18 March:** Nid Dev 1 – Charleroi [Workshop ->](https://github.com/EloiStree/HelloOneDayGodotXR/blob/main/README.md)~
+* ~**25 March:** Nid Dev 2 – Charleroi [Workshop ->](https://github.com/EloiStree/HelloOneDayGodotXR/blob/main/README.md)~
 * **7-8 April:** Hello Git & XR Dev – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md) 
 * **9-10 April:** Hello Git & XR Artist 😋 – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md)
 * **17 April:** Ludum Dare – Online
