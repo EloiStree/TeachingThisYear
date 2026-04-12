@@ -18,6 +18,7 @@ _All can be cancel and can be moved during the year_
 * **18 April:** La Louvière Gaming
 * **11 May – 5 June:** XR Development with Godot – Charleroi [Workshop->](https://github.com/EloiStree/2026_05_11_WorkshopHelloGodotXR/blob/main/README.md)
 * **11 & 12 June:** XR Gaming Initiation – Mons [Workshop->](https://github.com/EloiStree/2026_05_11_WorkshopGamingHelloXR)
+* **17 juin**: ["panorama day"](https://technocite.be/formations/panorama-day-industries-gaming-xr)
 * **July–August:** Coaching
 * **(?) 23 & 24:** What Is XR – Namur
 * **(?) 26 & 27:** What Is XR – Charleroi
