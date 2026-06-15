@@ -12,12 +12,12 @@ _All can be cancel and can be moved during the year_
 * ~**16–20 February:** Learn to Code by Playing – La Louvière [Workshop->](https://github.com/EloiStree/2026_02_16_WorkshopCodeByPlayingGaming300/blob/main/README.md)~
 * ~**18 March:** Nid Dev 1 – Charleroi [Workshop ->](https://github.com/EloiStree/HelloOneDayGodotXR/blob/main/README.md)~
 * ~**25 March:** Nid Dev 2 – Charleroi [Workshop ->](https://github.com/EloiStree/HelloOneDayGodotXR/blob/main/README.md)~
-* **7-8 April:** Hello Git & XR Dev – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md) 
-* **9-10 April:** Hello Git & XR Artist 😋 – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md)
-* **17 April:** Ludum Dare – Online
-* **18 April:** La Louvière Gaming
-* **11 May – 5 June:** XR Development with Godot – Charleroi [Workshop->](https://github.com/EloiStree/2026_05_11_WorkshopHelloGodotXR/blob/main/README.md)
-* **11 & 12 June:** XR Gaming Initiation – Mons [Workshop->](https://github.com/EloiStree/2026_05_11_WorkshopGamingHelloXR)
+* ~**7-8 April:** Hello Git & XR Dev – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md)~ 
+* ~**9-10 April:** Hello Git & XR Artist 😋 – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md)~
+* ~**17 April:** Ludum Dare – Online~
+* ~**18 April:** La Louvière Gaming~
+* ~**11 May – 5 June:** XR Development with Godot – Charleroi [Workshop->](https://github.com/EloiStree/2026_05_11_WorkshopHelloGodotXR/blob/main/README.md)~
+* ~**11 & 12 June:** XR Gaming Initiation – Mons [Workshop->](https://github.com/EloiStree/2026_05_11_WorkshopGamingHelloXR)~
 * **17 juin**: ["panorama day"](https://technocite.be/formations/panorama-day-industries-gaming-xr)
 * **July–August:** Coaching
 * **(?) 23 & 24:** What Is XR – Namur
